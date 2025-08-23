@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1816986260",
+    "project_id": "first-f9fef",
+    "storage_bucket": "first-f9fef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1816986260:android:64915c32caddfc4ca12a81",
+        "android_client_info": {
+          "package_name": "com.example.first_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gW4Qngp64iHYqmrzSAm_G60eGuNpvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1816986260:android:cd396d0efef95f0aa12a81",
+        "android_client_info": {
+          "package_name": "com.ten.avocado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gW4Qngp64iHYqmrzSAm_G60eGuNpvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1816986260:android:6781675fe283217fa12a81",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stack_food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gW4Qngp64iHYqmrzSAm_G60eGuNpvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1816986260:android:1189608b601aabe4a12a81",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stack_food_vandor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gW4Qngp64iHYqmrzSAm_G60eGuNpvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1816986260:android:58246bae154d1c3ea12a81",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stackfooduser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gW4Qngp64iHYqmrzSAm_G60eGuNpvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
